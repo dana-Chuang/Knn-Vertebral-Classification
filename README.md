@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7GykVemQ)
+# Vertebral Column Classification with KNN  
+
+This project implements a **K-Nearest Neighbors (KNN)** classifier to distinguish between **normal** and **abnormal** spine conditions using the [UCI Vertebral Column dataset](https://archive.ics.uci.edu/ml/datasets/Vertebral+Column).  
+
+The goal is to explore how distance metrics, training set size, and weighted voting affect the performance of non-parametric models.  
